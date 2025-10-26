@@ -1,0 +1,13 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "A playground project to try things out",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": ["playground", "test", "demo"],
+  "author": "",
+  "license": "ISC"
+}
